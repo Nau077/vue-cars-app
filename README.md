@@ -1,4 +1,4 @@
-# hello-world
+# cars app
 
 ## Project setup
 ```
